@@ -1,0 +1,6 @@
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke-dasharray: 3 3;
+  stroke: #e5e7eb;
+}
+.recharts-tooltip-wrapper { outline: none !important; }
